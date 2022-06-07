@@ -22,7 +22,7 @@
             <textarea name="contents" value="" row="7" cols="21">${note.contents}</textarea>
             <br><br>
             <input type="submit" value="save">
-                 
+                  
         </form>
     </body>
 </html>
